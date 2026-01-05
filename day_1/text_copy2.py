@@ -24,3 +24,4 @@ for q in quotes[:5]:  # print only first 5 for brevity
 
 print("great work")
 print("yep")
+print("Hello world we are about to see some stuff")
