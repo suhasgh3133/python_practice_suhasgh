@@ -11,7 +11,7 @@ html = response.text
 soup = BeautifulSoup(html, "html.parser")
 
 # Step 3: Extract data
-title = soup.title.text
+title = soup.i
 headings = soup.find_all("h1")
 
 print("Title:", title)
