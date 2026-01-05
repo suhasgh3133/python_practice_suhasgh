@@ -17,3 +17,5 @@ for box in quote_boxes:
 # Display extracted quotes
 for q in quotes[:5]:  # print only first 5 for brevity
     print(q)
+
+#it seems that this is not working
